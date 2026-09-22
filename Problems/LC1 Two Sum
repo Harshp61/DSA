@@ -15,3 +15,5 @@ public:
 };
 
 O(N*N)
+
+//We can do in O(N) using hashmap
